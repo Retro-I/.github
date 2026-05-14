@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-Docs-4051B5?style=for-the-badge" alt="Docs" />
   </a>&nbsp;
   <a href="https://radio.retroi.de" target="_blank">
-    <img src="https://img.shields.io/badge/-Web_Radio-00FF00?style=for-the-badge" alt="Web-Version" />
+    <img src="https://img.shields.io/badge/-Web_Radio-03B500?style=for-the-badge" alt="Web-Version" />
   </a>&nbsp;
 </p>
 <img src="splash.png">
